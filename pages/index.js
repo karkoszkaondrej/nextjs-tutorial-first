@@ -22,7 +22,7 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hello, I'm Ondřej. I'm software developer in Kotlin, C# and
+          Hello, I'm Ondřej. I'm self-taught software developer in Kotlin, C# and
           Typescript. You can contact me on{' '}
           <a href="https://www.linkedin.com/in/ond%C5%99ej-karkoszka-421077196">
             LinkedIn
